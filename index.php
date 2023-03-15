@@ -3,7 +3,7 @@
 <body>
 
 <h1>My PHP page using openshift S2I </h1>
-  <h2> This is the updated page </h2>
+  <h2> Practicing Openshift </h2>
 <?php
 echo "Hello fom Shantanu!";
 ?>
